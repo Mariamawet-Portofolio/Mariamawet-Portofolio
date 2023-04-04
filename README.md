@@ -33,7 +33,7 @@
        - Did Data Cleaning and Data Exploration
   
   
-  <h2>📺 CIVILENGINEERING PROJECTS -As a Highway Engineer</h2>
+  <h2>📺 CIVIL ENGINEERING PROJECTS -As a Highway Engineer</h2>
 
 - Design and Super Vision of Roads of Urban Roads in Addis Ababa, Ethiopia 
 - Design and Super Vision of Roads of Rural roads in Ethiopia 
@@ -41,7 +41,7 @@
   <h2>📺 CERTIFICATES</h2>
 - Data Science,Python,French Language and Different Curricular and Extra Curricular (Attached Below)
 - https://drive.google.com/drive/folders/1xdC-Me-aTd8zfPZqCW0KOTwXBVwavhuA?usp=share_link
-
+- https://drive.google.com/file/d/1_hNuZ3GoOq-bKNHXz3nFoqrWMQKjANGl/view?usp=sharing
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
